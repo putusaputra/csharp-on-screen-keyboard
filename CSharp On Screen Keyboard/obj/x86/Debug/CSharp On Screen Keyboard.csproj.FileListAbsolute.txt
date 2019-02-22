@@ -1,0 +1,27 @@
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\bin\Debug\CSharp On Screen Keyboard.exe
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\bin\Debug\CSharp On Screen Keyboard.pdb
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.Form1.resources
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.Properties.Resources.resources
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.csproj.GenerateResource.Cache
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.exe
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.pdb
+c:\users\putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.otombol.resources
+C:\Users\Putra\documents\visual studio 2010\Projects\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.csprojResolveAssemblyReference.cache
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.exe
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.pdb
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\bin\Debug\CSharp On Screen Keyboard.exe
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\bin\Debug\CSharp On Screen Keyboard.pdb
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.csprojResolveAssemblyReference.cache
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.Form1.resources
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.otombol.resources
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.Properties.Resources.resources
+E:\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.csproj.GenerateResource.Cache
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.exe
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.pdb
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\bin\Debug\CSharp On Screen Keyboard.exe
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\bin\Debug\CSharp On Screen Keyboard.pdb
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.csprojResolveAssemblyReference.cache
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.Form1.resources
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.otombol.resources
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp_On_Screen_Keyboard.Properties.Resources.resources
+E:\Data Leptop\CV\Portofolio Program\CSharp On Screen Keyboard\CSharp On Screen Keyboard\obj\x86\Debug\CSharp On Screen Keyboard.csproj.GenerateResource.Cache
